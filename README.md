@@ -26,8 +26,10 @@ for this purpose.
 
 
 ### Output:
+```
 Name:Nagajyothi.CH
 Reg no:212221230015
+```
 
 ![image](https://github.com/Nagajyothichinta/WDM_EXP9/assets/94191344/ad5ce6de-9a6b-4c12-b709-1f3af47e4967)
 
