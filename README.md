@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 13-04-24
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,17 @@ for this purpose.
 
 
 ### Output:
+Name:Nagajyothi.CH
+Reg no:212221230015
+
+![image](https://github.com/Nagajyothichinta/WDM_EXP9/assets/94191344/ad5ce6de-9a6b-4c12-b709-1f3af47e4967)
+
+![image](https://github.com/Nagajyothichinta/WDM_EXP9/assets/94191344/295a71e9-7f3f-4024-aa83-93d19ba6214c)
+
+![image](https://github.com/Nagajyothichinta/WDM_EXP9/assets/94191344/bd865090-f259-40ec-a6ad-ee350be7cce9)
+
+
+
 
 ### Result:
+Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
